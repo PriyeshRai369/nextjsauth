@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "outline.collapseItems": "alwaysExpand",
+    "editor.foldingImportsByDefault": true
+}
